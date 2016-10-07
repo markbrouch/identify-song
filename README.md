@@ -14,7 +14,7 @@ npm install identify-song
 ### For Mac OS
 `brew install sox`
 
-### For most linux disto's
+### For Linux
 `sudo apt-get install sox libsox-fmt-all`
 
 ### For Windows
