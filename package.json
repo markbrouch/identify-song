@@ -1,0 +1,23 @@
+{
+  "name": "identify-song",
+  "version": "0.0.0",
+  "description": "Listens to song over microphone and identifies using audio fingerprint on ACRCloud.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "audio",
+    "fingerprinting",
+    "microphone",
+    "song"
+  ],
+  "author": {
+    "name": "Mark Brouch",
+    "email": "mark.brouch@gmail.com"
+  },
+  "license": "MIT",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/markbrouch/identify-song.git"
+  }
+}
