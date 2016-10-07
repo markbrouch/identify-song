@@ -31,10 +31,9 @@ identifySong({
   access_key: '<ACRCloud access key>',
   access_secret: '<ACRCloud access secret'
 })
+.then(response => console.log(response))
+.catch(error => console.error(error));
 ```
 
 ## Tips
 If you keep getting 'No result' code 1001 in the response, make sure your microphone volume is set appropriately (not too quiet, but not so loud that audio is cut off).
-.then(response => console.log(response))
-.catch(error => console.error(error));
-```
