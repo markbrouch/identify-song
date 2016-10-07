@@ -15,9 +15,13 @@
     "email": "mark.brouch@gmail.com"
   },
   "license": "MIT",
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/markbrouch/identify-song.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markbrouch/identify-song.git"
+  },
+  "dependencies": {
+    "concat-stream": "^1.5.2",
+    "node-record-lpcm16": "^0.1.4",
+    "request": "^2.75.0"
   }
 }
