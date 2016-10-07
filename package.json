@@ -1,6 +1,6 @@
 {
   "name": "identify-song",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Listens to song over microphone and identifies using audio fingerprint on ACRCloud.",
   "main": "index.js",
   "scripts": {},
